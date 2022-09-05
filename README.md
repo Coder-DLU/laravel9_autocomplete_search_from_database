@@ -14,7 +14,7 @@ User::factory()->count(20)->create()
 ```
 ## 3: Create Controller
 ```Dockerfile
-php artisan make:controller SearchController.php
+php artisan make:controller SearchController
 ```
 -  Vào  app/Http/Controllers/SearchController.php
 ```Dockerfile
