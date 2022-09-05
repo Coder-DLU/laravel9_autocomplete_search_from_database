@@ -3,6 +3,7 @@
 ```Dockerfile
 composer create-project laravel/laravel laravel9_autocomplete_search_from_database
 ```
+
 ## 2: Add Dummy Users   
 ```Dockerfile
 php artisan migrate
