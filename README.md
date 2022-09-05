@@ -13,6 +13,9 @@ php artisan tinker
 User::factory()->count(20)->create()
 ```
 ## 3: Create Controller
+```Dockerfile
+php artisan make:controller SearchController.php
+```
 -  Vào  app/Http/Controllers/SearchController.php
 ```Dockerfile
 <?php
